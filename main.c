@@ -7,6 +7,6 @@ int main() {
     scanf("%d", &a);
     printf("Enter the second number: ");
     scanf("%d", &b);
-    printf("Amount: %d\n", a + b);
+    printf("Amount: %d\n", a - b);
     return 0;
 }
