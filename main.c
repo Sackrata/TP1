@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    printf("Программа запущена\n");
+    printf("Program is run\n");
     int a, b;
-    printf("Введите первое число: ");
+    printf("Enter the first number: ");
     scanf("%d", &a);
-    printf("Введите второе число: ");
+    printf("Enter the second number: ");
     scanf("%d", &b);
-    printf("Сумма: %d\n", a + b);
+    printf("Amount: %d\n", a + b);
     return 0;
 }
